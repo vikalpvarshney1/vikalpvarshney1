@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikalp Varshney</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-
+<h3 align="center">A web developer with the ability to produce clean, reusable, and optimised code, as well as a self-motivated learner. Build and maintain MERN-based web apps with expertise and experience. I'm excited to work in a forward-thinking, challenging atmosphere.
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikalpvarshney1&label=Profile%20views&color=0e75b6&style=flat" alt="vikalpvarshney1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vikalpvarshney6" target="blank"><img src="https://img.shields.io/twitter/follow/vikalpvarshney6?logo=twitter&style=for-the-badge" alt="vikalpvarshney6" /></a> </p>
