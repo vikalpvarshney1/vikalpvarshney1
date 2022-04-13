@@ -1,3 +1,4 @@
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Vikalp Varshney</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <h3 align="center">A web developer with the ability to produce clean, reusable, and optimised code, as well as a self-motivated learner. Build and maintain MERN-based web apps with expertise and experience. I'm excited to work in a forward-thinking, challenging atmosphere.</h3>
